@@ -1,4 +1,4 @@
-##PySAST (Python Static Application Security Testing Tool)
+PySAST (Python Static Application Security Testing Tool)
 ---
 
 ```markdown
@@ -14,7 +14,6 @@ Built for learning, lightweight projects, and early-stage secure coding.
 ✅ Hardcoded password variables  
 ✅ Usage of dangerous functions (`eval`, `exec`)  
 ✅ Dangerous OS calls like `os.system("...")`  
-🚧 (More rules coming soon: SQL injection, unused vars, file injections)
 
 ---
 
