@@ -1,8 +1,7 @@
-
+##PySAST (Python Static Application Security Testing Tool)
 ---
 
 ```markdown
-# 🧪 PySAST — Python Static Application Security Testing Tool
 
 **PySAST** is a beginner-friendly Static Analysis tool written in pure Python. It scans Python source code for insecure coding patterns and bad practices — without running the code.
 
